@@ -1,9 +1,3 @@
 Hiya! Welcome to Profit Swipe 
 
-Please choose one of the option
-1. Help
-2. Tasks
-3. Jobs
-4. Prizes
-
-Please visit our page for more info -
+This is a bulk message app kindly do not reply to it as it is under development process
