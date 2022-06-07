@@ -1,0 +1,9 @@
+Hiya! Welcome to Profit Swipe 
+
+Please choose one of the option
+1. Help
+2. Tasks
+3. Jobs
+4. Prizes
+
+Please visit our page for more info -
